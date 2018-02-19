@@ -22,4 +22,4 @@ Friend Finder implements friend matching based on the user's responses to a ten 
 
 ### Copyright
 
-Paul Pinho � 2018. All Rights Reserved.
+Paul Pinho © 2018. All Rights Reserved.
